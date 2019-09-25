@@ -12,6 +12,23 @@ Upon successful completion of this course, the student should be able to:
 4. Describe the historical evolution of data warehousing and data integration
 5. Identify the core elements of a data warehouse and data integration engine
 
+### Topics Covered ###
+
+1.  Historical Evolution
+2.  Data Warehouse Design Overview
+3.  Kimball Design
+4.  External and Unstructured Data
+5.  Operational Data Store
+6.  Technology Used in Data Warehousing
+7.  Additional Data Warehousing Topics
+8.  Advanced Topics in Data Warehousing
+9.  Standards and Why They Are Important
+10. Data Quality and Compliance
+11. Design Reviews
+12. Planning for a Data Warehouse Implementation
+13. The Case for a Data Warehouse
+14. Final Project
+
 
 ### Required Textbooks ##
 
